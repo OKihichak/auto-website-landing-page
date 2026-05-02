@@ -32,7 +32,7 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 - React
 - Vite
 - Three.js (React Three Fiber + Drei)
-- GSAP (ScrollTrigger)
+- GSAP (Animations, ScrollTrigger)
 - Tailwind CSS
 - JavaScript (ES6+)
 
@@ -49,11 +49,12 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 ---
 
 ## 🗂️ Project Structure
+- public/ # Static assets (images, videos, 3D models)
 - src/
 - components/ # UI components (Hero, Features, ModelView, etc.)
-- constants/ # Static data (models, colors, configs)
-- utils/ # Assets and helper functions
-- public/ # Static assets (images, videos, 3D models)
+- constants/ # Static data (text)
+- utils/ # Assets(imports/exports)
+
 
 ---
 
@@ -82,7 +83,7 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 ## ⚠️ Notes
 - This project is inspired by automotive design concepts  
 - Demo video may include external assets for presentation purposes  
-- Repository version uses royalty-free or placeholder assets  
+- Repository version uses public assets  
 
 ---
 
