@@ -49,25 +49,25 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 ---
 
 ## 🗂️ Project Structure
--src/
--components/ # UI components (Hero, Features, ModelView, etc.)
--constants/ # Static data (models, colors, configs)
--utils/ # Assets and helper functions
--public/ # Static assets (images, videos, 3D models)
+- src/
+- components/ # UI components (Hero, Features, ModelView, etc.)
+- constants/ # Static data (models, colors, configs)
+- utils/ # Assets and helper functions
+- public/ # Static assets (images, videos, 3D models)
 
 ---
 
 ## 🚀 How to Run
 
-1. **Clone the repository:**
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-2. **Install dependencies:**
-npm install
-3. **Run the development server:**
-npm run dev
-4. **Open in browser:**
-http://localhost:5173
+- 1. **Clone the repository:**
+- git clone https://github.com/OKihichak/auto-website-landing-page.git
+- cd YOUR_REPO
+- 2. **Install dependencies:**
+- npm install
+- 3. **Run the development server:**
+- npm run dev
+- 4. **Open in browser:**
+- http://localhost:5173
 
 ---
 
