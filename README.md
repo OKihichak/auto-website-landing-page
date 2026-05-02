@@ -49,3 +49,42 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 ---
 
 ## 🗂️ Project Structure
+-src/
+-components/ # UI components (Hero, Features, ModelView, etc.)
+-constants/ # Static data (models, colors, configs)
+-utils/ # Assets and helper functions
+-public/ # Static assets (images, videos, 3D models)
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+2. **Install dependencies:**
+npm install
+3. **Run the development server:**
+npm run dev
+4. **Open in browser:**
+http://localhost:5173
+
+---
+
+## ⚡ Performance & Optimization
+- Scroll-triggered video playback to reduce memory usage  
+- Optimized 3D rendering with React Three Fiber  
+- Efficient GSAP animations using ScrollTrigger  
+- Minimal unnecessary re-renders using refs  
+
+---
+
+## ⚠️ Notes
+- This project is inspired by automotive design concepts  
+- Demo video may include external assets for presentation purposes  
+- Repository version uses royalty-free or placeholder assets  
+
+---
+
+## 📧 Get in Touch
+- Email: oleg15062005@gmail.com  
