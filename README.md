@@ -1,18 +1,51 @@
-# React + Vite
+# 🚗 Automotive Landing Page (Audi-inspired)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎥 Demo
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/5325298d-3151-4fcd-a173-c2f8c13c95c7
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📝 Contents
+- [Introduction](#-introduction)
+- [Technology Stack](#-technology-stack)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [How to Run](#-how-to-run)
+- [Performance & Optimization](#-performance--optimization)
+- [Notes](#-notes)
+- [Get in Touch](#-get-in-touch)
+
+---
+
+## 🗺️ Introduction
+This project is a premium automotive landing page inspired by modern product websites.  
+It focuses on smooth animations, 3D interaction, and immersive user experience.
+
+---
+
+## 💻 Technology Stack
+- React
+- Vite
+- Three.js (React Three Fiber + Drei)
+- GSAP (ScrollTrigger)
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## ✨ Features
+- Interactive 3D car model
+- Smooth scroll animations with GSAP
+- Dynamic color selection
+- Responsive design (mobile & desktop)
+- Video sections with optimized playback
+- Modern UI inspired by Apple-style product pages
+
+---
+
+## 🗂️ Project Structure
