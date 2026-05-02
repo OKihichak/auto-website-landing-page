@@ -62,7 +62,7 @@ It focuses on smooth animations, 3D interaction, and immersive user experience.
 
 1. **Clone the repository:**
 - git clone https://github.com/OKihichak/auto-website-landing-page.git
-- cd YOUR_REPO
+- cd auto-website-landing-page
 2. **Install dependencies:**
 - npm install
 3. **Run the development server:**
